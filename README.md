@@ -1,14 +1,22 @@
-# pinia-tasks
+# Tasks-GET-SET-GO
 
-This template should help get you started developing with Vue 3 in Vite.
+This App developed using vue3 and Pinia.
 
-## Recommended IDE Setup
+# About Pinia
+Pinia is a store library for Vue, it allows you to share a state across components/pages.
+- Devtools support
+- Hot module replacement
+- Plugins: extend Pinia features with plugins
+- Proper TypeScript support or autocompletion for JS users
+- Server Side Rendering Support
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+# Is Pinia better than vuex ?
 
-## Customize configuration
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+Compared to Vuex, Pinia provides a simpler API with less ceremony,
+offers Composition-API-style APIs,
+and most importantly, has solid type inference support when used with TypeScript.
+
 
 ## Project Setup
 
